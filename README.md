@@ -49,7 +49,7 @@ At 4,700 iterations:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/KanLangTokenizer.git
+git clone https://github.com/TousifAhamed/KannadaLanguageTokenizer.git
 cd KanLangTokenizer
 ```
 
