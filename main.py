@@ -60,24 +60,5 @@ def main():
     # Save the encoder
     print("\nSaving encoder...")
     encoder.save_to_file(output_file)
-    
-    '''
-    # Plot statistics
-    print("\nPlotting statistics...")
-    encoder.plot_statistics()
-    
-    # Print some example tokenizations
-    print("\nExample tokenizations:")
-    test_texts = [
-        "नमस्ते दुनिया",
-        "मैं हिंदी सीख रहा हूं",
-        "भारत एक महान देश है"
-    ]
-    
-    for text in test_texts:
-        tokens = encoder.tokenize(text)
-        print(f"\nText: {text}")
-        print(f"Tokens: {tokens}")
-    '''
 
 main()
