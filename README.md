@@ -1,4 +1,6 @@
-# Kannada Language BPE Tokenizer
+# Kannada Language Text Tokenizer
+
+🤗 Try out the demo on Hugging Face Spaces: [Kannada Text Tokenizer](https://huggingface.co/spaces/Tousifahamed/Kannada_Text_Tokenizer)
 
 A specialized Byte Pair Encoding (BPE) tokenizer implementation for the Kannada language, designed to improve natural language processing tasks for Kannada text.
 
